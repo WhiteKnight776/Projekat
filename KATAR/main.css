@@ -1,0 +1,77 @@
+.empty{
+  height: 20px;
+}
+
+div{
+  display: block;
+}
+
+header {
+    width: 1040px;
+    margin: 0 auto;
+    height: auto;
+    margin-top: 20px;
+    border-bottom: 18px solid #ffffff;
+}
+
+.logo{
+    margin: 0 auto;
+    width: 920px;
+    margin-bottom: 20px;
+}
+
+#navigation ul {
+    font-family: Raleway, sans-serif;
+    font-size: 14px;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    text-transform: uppercase;
+  }
+
+#navigation li {  float: left;
+  position: relative;
+  margin-left: 8%;
+  padding: 1px;
+}
+
+form{
+  display: block;
+}
+#search{
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 330px;
+
+}
+
+#s{
+    width: 150px;
+    padding: 5px;
+    border: 0px solid #cccccc;
+    background: #98ff98;
+    font-size: 10px;
+    float: left;
+    color: #b0b0b0;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#submit{
+    float: right;
+    position: absolute;
+    margin-left: 7px;
+    margin-top: 0px;
+    width: 21px;
+    height: 21px;
+    border: 0px;
+}
+.slideshow{
+  padding-top: 15px;
+}
+.clear{
+  clear: both;
+}
+#img1{
+  padding-left: 58px;
+}
